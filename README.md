@@ -3,7 +3,7 @@ Jupyter python codes:
 SurvivalAnalysis_GeneExpression.ipynb
 Codes updated January 2rd, 2018
 
-For questions, ask Ziming Zhao ziming.zhao@jax.org or Javad Noorbakhsh Javad.Noorbakhsh@jax.org
+For questions, ask Ziming Zhao ziming.gt@gmail.com
 
 Required two input files:
 TNBC_TCGA_132_RNAseq.csv (gene expression data)
