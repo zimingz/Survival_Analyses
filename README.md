@@ -14,3 +14,7 @@ Description: Survival analyses of genes using gene expression data (TCGA TNBC RN
 Demo of Survival analyses of genes "CCNE1","TPX2","TRA2B" using gene expression data
 P-value was labled and calculated from logrank test
 
+Relevant publication:
+Z.-M. Zhao, S. E. Yost, K. E. Hutchinson, S. M. Li, Y.-C. Yuan, J. Noorbakhsh, Z. Liu, C. Warden, R. M. Johnson, X. Wu, J. H. Chuang, and Y. Yuan. CCNE1 amplification is associated with poor prognosis in patients with triple negative breast cancer. BMC Cancer, 2019.
+https://bmccancer.biomedcentral.com/articles/10.1186/s12885-019-5290-4
+
